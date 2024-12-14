@@ -1,0 +1,169 @@
+Category,SRType
+waste,SW-SIU Clean Up
+waste,WW-Water Leak (Exterior)
+waste,SW-Mixed Refuse
+waste,WW-Water No Water
+waste,WW-Sewer Overflow
+waste,WW-Sewer Water In Basement
+waste,HCD-Illegal Dumping
+waste,SW-Dirty Street
+waste,SW-Dirty Alley
+waste,SW-Rat Rubout
+waste,WW-Water Low Pressure
+waste,SW-Leaf Collection Scheduling
+waste,SW-Fire Debris Removal
+waste,SW-Recycling
+waste,SW-Trash Can/Recycling Container Complaint
+waste,SW-Rat Rubout Proactive
+waste,SW-Graffiti Removal
+waste,WW-Water Odor/Bad Taste
+waste,SW-Graffiti Removal Proactive
+waste,SW-Dirty Street Proactive
+waste,WW-Storm Flooded Street
+waste,WW-Storm Damaged Inlet
+waste,WW-Hydrant Damaged
+waste,TRM-Debris Hanging From Wires or Poles
+waste,SW-Bag Pickup
+waste,SW-Public (Corner) Trash Can Request/Removal
+waste,WW-Hydrant Leaking
+waste,WW-Waterway Pollution Investigation
+waste,SW-Rat Rubout Follow-up
+waste,WW-Sediment or Erosion Problem
+waste,SW-Dumpster Collection
+waste,SW-Graffiti Removal-Owner's Request
+waste,SW-Bulk Scheduled (FOR SATURDAY'S ONLY)
+waste,SW-Bulk Scheduled
+waste,SW- City Trash Can or Recycling Cart Concern
+waste,SW-City Trash Can or Recycling Cart Concern
+waste,SW-Bulk Scheduled-Saturday
+waste,SW-City Trash Can or Recycling Cart Lost or Stolen
+waste,SW-Bulk Special
+waste,SW-Mechanical Street Sweeping
+waste,SW-RP Bulk Pickup
+waste,SW-Leaf Removal
+vehicle,TRS-48 Hour Parking/Abandoned Vehicle
+vehicle,TRS-Parking Complaint
+vehicle,SW-Municipal Trash Can Stolen/Lost
+vehicle,TRT-Traffic Signal Repairs
+vehicle,TRM-Potholes
+vehicle,TRM-StLight Damaged/Knocked Down/Rusted
+vehicle,SW-Municipal Trash Can Concern
+vehicle,TRT-New Traffic Sign
+vehicle,TRM-Street Repairs
+vehicle,TRM-StLight Pole Missing
+vehicle,TRM-Curb Repair
+vehicle,SW-Public (Corner) Trash Can Issue
+vehicle,TRT-Traffic Calming
+vehicle,TRM-Pickup Pothole
+vehicle,TTR-Vehicle Relocation
+vehicle,TRT-Crosswalks
+vehicle,FCPF-Trial Request-Parking
+vehicle,SW-Dirty Alley Proactive
+vehicle,TRM-Bridge Concern
+vehicle,TRM-Sign Damaged/Sign Structure
+vehicle,TRM-Debris In Roadway
+vehicle,TRM-StLight Pole Access Cover/Plate Missing
+vehicle,PABC-Single Space Meter Complaints
+vehicle,TRM-Guardrail Concern (Repair)
+vehicle,TTR-Abandoned Vehicle Turn-in Program
+vehicle,TRT-Signal Timing
+vehicle,PABC-Parking Regulation Review
+vehicle,TRM-StLighting Inadequate/Too Bright
+vehicle,TTR-Vehicle Removal
+vehicle,TRM-StLight Pole Pickup
+vehicle,PABC-Pay by License Plate Meter Complaints
+vehicle,TRM-Street and Crosswalk Markings
+vehicle,TRM-Illegal Sign Removal
+vehicle,FCPF-Stolen Vehicle/Tags
+vehicle,TRS-Parking Away Notification
+vehicle,TRM-Steel Plate Complaint
+vehicle,TRM-WO Sign Removal
+vehicle,TRM-Footways Repair
+vehicle,TRM-WO Sign Installation
+vehicle,TRM-Steel Plate Repair
+vehicle,SW-Volunteer Clean-Up Event
+vehicle,PABC-Electric Vehicle Charging Station Request
+vehicle,SW-Residential Recycling Carts
+vehicle,PABC-Driveway Signage Request
+vehicle,TRM-(ADA) Sidewalk Ramp Concern (Repair)
+vehicle,SW-Clean Up (Mayor’s Fall Cleanup)
+vehicle,SW-Water Way Cleaning
+vehicle,TRM-Snow/Icy Conditions
+vehicle,TRM-Sandbag Pick Up
+infrastructure,HCD-Vacant Building
+infrastructure,TRM-Street Light Out
+infrastructure,BGE-StLighting Cable Faults
+infrastructure,BGE-StLight(s) Out
+infrastructure,BGE-C-Order Damage
+infrastructure,HCD-Maintenance Structure
+infrastructure,HCD-Sanitation Property
+infrastructure,HCD-Abandoned Vehicle
+infrastructure,HCD-Rodents
+infrastructure,FIR-Fire Smoke Alarm Installation Request
+infrastructure,FOR-Down Tree
+infrastructure,BGE-No Feed
+infrastructure,FOR-Fallen Limb
+infrastructure,RP-Grass Cutting
+infrastructure,BGE-StLight Pole Installation
+infrastructure,RP-Park Maintenance
+infrastructure,HCD-CCE Building Inspections
+infrastructure,FOR-Tree Inspection
+infrastructure,TEC-Footways Complaint
+infrastructure,TEC-Alley Reconstruction Complaint
+infrastructure,WW-Surface Repair
+infrastructure,RP-Building Maintenance
+infrastructure,HCD-Animals
+infrastructure,WW-Water Meter Leak
+infrastructure,FOR-Broken Branch in Tree
+infrastructure,WW-Water Meter Cover Missing or Damaged
+infrastructure,BGE-StLight(s) Out Rear
+infrastructure,TRT-Traffic Sign Request
+infrastructure,BGE-Duplex
+infrastructure,HCD-Insects
+infrastructure,BGE-Conduit Observation
+infrastructure,RP-Street Lighting Repairs
+infrastructure,HCD-Illegal Signs on Public Property
+infrastructure,HCD-Fire Protection
+infrastructure,TRM-Fence Concern (Repair)
+infrastructure,HCD-Bed Bugs
+infrastructure,HCD-Illegal Flyers
+infrastructure,BGE-Fixture-Arm
+infrastructure,TEC-Street Repair (Misc)
+infrastructure,BGE-Cable Replacement
+infrastructure,BGE-C-Order Non-Damage
+infrastructure,WW-Water Noise In Pipe
+infrastructure,BGE-Extend Feed
+infrastructure,FIR-Fire Code Violation
+infrastructure,RP-Custodial Services
+infrastructure,BGE-Duct Obstruction
+infrastructure,TEC-Footways Contract/Reconstruction
+infrastructure,HCD-CCE Demolition
+infrastructure,BGE-Construction/New Development
+animal,HLTH-Animal In Danger/Injured/Abused/Neglected
+animal,HLTH-Animal Stray Held
+animal,HLTH-Animal Aggressive Animal
+animal,HLTH-Animal Wildlife Complaint
+animal,HLTH-Animal Dead Animal Pickup-Wildlife or Stray
+animal,HLTH-Animal Unsanitary Conditions
+animal,"HLTH-Animal Failure to Restrain Animal, Known Owner/Known Address"
+animal,HLTH-Animal Inspection/Follow-up
+animal,HLTH-Animal Bite Pickup
+animal,HLTH-Animal Attack Against Human
+animal,HLTH-Animal Attack Against Animal
+animal,HLTH-Animal Domestic Animal Trap or Capture Request
+animal,HLTH-Animal Barking Dog
+animal,HLTH-Animal Trapped In Vacant Building
+animal,MOHS-Homeless Outreach
+nature,HCD-Trees and Shrubs
+nature,TRM-Grass Mowing
+nature,ECC-Grass Mowing
+vandalism,TRM-Graffiti Referral
+vandalism,HCD-Graffiti
+vandalism,RP-Graffiti Removal
+finance,FIN-City Motor Vehicle Accident
+safety,HLTH-EV Noise
+safety,HLTH-EV Odor
+safety,FCPF-Ombudsman Review
+safety,HLTH-Animal Police/Fire/Sheriff/City Work Crew Standby
+safety,HLTH-EV Plastic Bag Ban Violation
+safety,HLTH-EV Waste Hauler
